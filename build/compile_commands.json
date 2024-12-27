@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/mozijun/Mycode_c/rune_detector/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4  -o CMakeFiles/MyProject.dir/src/rune_detector.cpp.o -c /home/mozijun/Mycode_c/rune_detector/src/rune_detector.cpp",
+  "file": "/home/mozijun/Mycode_c/rune_detector/src/rune_detector.cpp",
+  "output": "CMakeFiles/MyProject.dir/src/rune_detector.cpp.o"
+}
+]
